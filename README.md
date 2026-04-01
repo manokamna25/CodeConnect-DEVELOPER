@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CodeConnect%20%F0%9F%9A%80&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Tinder%20for%20Developers%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&descAlignY=51&descAlign=62" alt="CodeConnect Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CodeConnect%20%F0%9F%9A%80&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Matchmaking%20for%20Developers%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&descAlignY=51&descAlign=62" alt="CodeConnect Header" />
   
   <p>
     <strong>CodeConnect is the ultimate platform for developers to connect, collaborate, and code together.</strong><br>
